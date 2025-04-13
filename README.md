@@ -27,6 +27,6 @@
 <p>
 <a href="https://www.linkedin.com/in/lucas-ramos-dotnet-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 <a href="mailto:lucas.ramos.pessoa@hotmail.com">
-<img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook;logoColor=white" alt="E-mail">
 </a>
 </div>
