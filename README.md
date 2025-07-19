@@ -14,11 +14,12 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramos-coderexpert&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 </div>
 
-## &nbsp;My Stack
+##
+<h3>My Stack </h3>
 
 <img src="https://skillicons.dev/icons?i=visualstudio,cs,dotnet,vscode,html,css,js,angular,ts,bootstrap,aws,git,github&theme=dark" />
 
-#
+##
 
 <h3>Contact Me</h3>
 <div align="left">
